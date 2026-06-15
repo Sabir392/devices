@@ -4,22 +4,17 @@
 
 ---
 
-## ⬇ Download
+## 📥 Downloads
 
-**[EPM-310-RS-485.exe](https://github.com/Sabir392/devices/releases/download/v1.0/EPM-310-RS-485.exe)**
-
----
-
-## 📖 User Manual
-
-| Language | Download |
-|----------|----------|
-| 🇦🇿 Azerbaijani | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-az.pdf) |
-| 🇬🇧 English | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-en.pdf) |
-| 🇷🇺 Russian | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-ru.pdf) |
-| 🇹🇷 Turkish | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-tr.pdf) |
-| 🇫🇷 French | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-fr.pdf) |
-| 🇸🇦 Arabic | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-ar.pdf) |
+| File | Download |
+|------|----------|
+| 💾 EPM-310-RS-485.exe | [Download](https://github.com/Sabir392/devices/releases/download/v1.0/EPM-310-RS-485.exe) |
+| 🇦🇿 Manual (Azerbaijani) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-az.pdf) |
+| 🇬🇧 Manual (English) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-en.pdf) |
+| 🇷🇺 Manual (Russian) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-ru.pdf) |
+| 🇹🇷 Manual (Turkish) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-tr.pdf) |
+| 🇫🇷 Manual (French) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-fr.pdf) |
+| 🇸🇦 Manual (Arabic) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-ar.pdf) |
 
 ---
 
