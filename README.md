@@ -15,6 +15,7 @@
 | 🇹🇷 Manual (Turkish) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-tr.pdf) |
 | 🇫🇷 Manual (French) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-fr.pdf) |
 | 🇸🇦 Manual (Arabic) | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-ar.pdf) |
+| 🇹🇷 EPM-310 Kullanım Kılavuzu | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-manual-tr.pdf) |
 
 ---
 
