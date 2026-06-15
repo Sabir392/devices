@@ -1,6 +1,6 @@
-# EPM-310 RS-485 — Web Panel
+# EPM-310 — Documents & Software
 
-**EPM-310** energy meter web monitoring panel via RS-485 / Modbus RTU.
+User manuals and RS-485 Modbus web monitoring panel for EPM-310 voltage regulator & energy parameter monitor.
 
 ---
 
