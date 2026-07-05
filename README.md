@@ -15,10 +15,10 @@ User manuals and RS-485 Modbus web monitoring panel for EPM-310 voltage regulato
 | 🇹🇷 EPM-310-RS-485 | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-tr.pdf) |
 | 🇫🇷 EPM-310-RS-485 | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-fr.pdf) |
 | 🇸🇦 EPM-310-RS-485 | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-RS-485-ar.pdf) |
-| 🇹🇷 EPM-310 | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-manual-tr.pdf) |
-| 🇦🇿 EPM-310 Wi-Fi | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-Wi-Fi-manual-az.pdf) |
-| 🇬🇧 EPM-310 Wi-Fi | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-Wi-Fi-manual-en.pdf) |
-| 🇹🇷 EPM-310 Wi-Fi | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-Wi-Fi-manual-tr.pdf) |
+| 🇹🇷 EPM-310 | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-tr.pdf) |
+| 🇦🇿 EPM-310 Wi-Fi | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-Wi-Fi-az.pdf) |
+| 🇬🇧 EPM-310 Wi-Fi | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-Wi-Fi-en.pdf) |
+| 🇹🇷 EPM-310 Wi-Fi | [PDF](https://github.com/Sabir392/devices/raw/main/EPM-310-Wi-Fi-tr.pdf) |
 | 🇹🇷 SM-2603 | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603-tr.pdf) |
 | 🇬🇧 SM-2603 | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603-en.pdf) |
 | 🇷🇺 SM-2603 | [PDF](https://github.com/Sabir392/devices/raw/main/SM-2603-ru.pdf) |
